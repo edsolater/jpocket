@@ -1,1 +1,1 @@
-export const init = ()=> 'try to regist'
+export const init = () => 'try to regist'
